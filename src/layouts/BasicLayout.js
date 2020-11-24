@@ -31,7 +31,7 @@ const BasicLayout = props => {
         </Menu>
       </Header>
       <Content style={{ padding: '20px 30px' }}>
-        <div style={{ background: '#fff', padding: 24, height: '100%' }}>
+        <div style={{ background: '#fff', height: '100%' }}>
           {children}
         </div>
       </Content>
